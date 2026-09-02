@@ -6,3 +6,4 @@ Datos del estudiante:
 Nombre:Univ. Ninoska Carolina Cota Huallata
 Carrera: Ingeniería de Sistemas
 Semestre: Decimo
+Mención: Gestión de la información 

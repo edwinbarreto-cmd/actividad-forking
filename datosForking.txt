@@ -3,7 +3,7 @@ ACTUALIZACIÓN TECNOLÓGICA-PARALELO A
 Repositorio principal para práctica de Forking Workflow.
 
 Datos del estudiante:  
-Nombre:Univ. Barreto Calizaya Edwin Rodrigo
+Nombre:Univ. Edwin Rodrigo Barreto Calizaya
 Carrera: Ingeniería de Sistemas
 Semestre: Sexto
 Mención: Gestión de la información 
